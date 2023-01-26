@@ -6,7 +6,7 @@ const ExpenseForm = ()=> {
     <form>
         <div className="new-expense__controls">
             <div className="new-expense__control">
-                <label>Title</label>
+                <label>Titlee</label>
                 <input type = 'text'/>
             </div>
             <div className="new-expense__control">
